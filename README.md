@@ -1,4 +1,4 @@
 write4ten
 =========
 
-a simple editor written in python
+This is a simple editor written in python. It is inpired by [writeforten.com](http://writeforten.com/).
